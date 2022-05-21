@@ -31,6 +31,8 @@ In this section you will find articles and blogs about the zettelkasten method.
 - [The Life-Changing Magic of Zettelkasten](https://www.bryanlee.net/blog/the-life-changing-magic-of-zettelkasten)
 - [How to take notes insights from ai neuroscience a sociologist and a free app](https://medium.com/swlh/how-to-take-notes-insights-from-ai-neuroscience-a-sociologist-and-a-free-app-34b4be63080a)
 - [Zetteldeft - A Zettelkasten for Emacs](https://www.eliasstorms.net/zetteldeft)
+- [The Zettelkasten method @ dSebastien.net](https://dsebastien.net/blog/2022-05-01-zettelkasten-method)
+- [Personal Knowledge Management Organization](https://dsebastien.net/blog/2021-12-03-personal-knowledge-management-organization)
 
 ## Books
 
@@ -84,6 +86,7 @@ Software to use with the Zettelkasten method.
 - [zknotes](https://github.com/bburdette/zknotes)
 - [Zkn](http://zettelkasten.danielluedecke.de/en/)
 - [FSNotes](https://fsnot.es)
+- [Flowtelic](https://app.flowtelic.com/)
 
 #### VSCode
 
